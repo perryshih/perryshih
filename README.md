@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi I am Perry Shih 
+- I'm interseting in playing Black Desert Online.
+- My email : perry11185@gmail.co
 
 <!--
 **perryshih/perryshih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
